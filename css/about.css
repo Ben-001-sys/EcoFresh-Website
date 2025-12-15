@@ -1,0 +1,24 @@
+@import url("style.css");
+
+/* Page-specific styles for about.html */
+.page {
+  padding: 2rem 0;
+}
+
+.page h1 {
+  color: #1b5e20;
+  margin-bottom: 0.75rem;
+}
+
+.page p {
+  max-width: 65ch;
+  color: #444;
+  margin-top: 1rem;
+}
+
+.page-illustration {
+  max-width: 180px;
+  float: right;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+}
