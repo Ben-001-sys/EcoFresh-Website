@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80">
-  <rect width="120" height="80" rx="8" fill="#e8f5e9" />
-  <g transform="translate(12,12)" fill="#2f7d32">
-    <path d="M20 40c0-12 12-20 12-20s6 6 6 12c0 6 8 8 8 16H20z" opacity="0.95"/>
-    <circle cx="60" cy="48" r="6" fill="#81c784"/>
-  </g>
-  <text x="12" y="72" font-family="Arial" font-size="8" fill="#2c2c2c">Plant-based • Safe • Eco</text>
-</svg>
